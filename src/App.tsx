@@ -1617,7 +1617,7 @@ function App() {
           >
             <Paper
               component='a'
-              href='https://github.com/zqq-nuli/Navihive'
+              href='https://226626.xyz'
               target='_blank'
               rel='noopener noreferrer'
               elevation={2}
